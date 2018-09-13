@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="action_search">Buscar...</string>
+    <string name="buscar">Buscar un pokimon</string>
+    <string name="about">About</string>
+    <string name="about_message">Mauro Siqueira, 2018</string>
+</resources>
